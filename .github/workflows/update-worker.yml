@@ -83,9 +83,3 @@ jobs:
           commit_message: "🔄 自动同步最新 Worker 版本：${{ env.TAG_NAME }}"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           push_options: --force
-
-
-作者: 胡广生
-链接: https://boke.xn--swtp71c7ji.com/wenzhang/BPB%E6%90%AD%E5%BB%BA/
-来源: 胡广生博客
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
